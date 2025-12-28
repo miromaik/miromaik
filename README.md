@@ -7,5 +7,5 @@ I don't chase trends; I build resilient infrastructure that simply works.
 <br>
 
 <div align="center">
-  <code>root@min1moys:~# exit</code>
+  <code>root@mirmay:~# exit</code>
 </div>
