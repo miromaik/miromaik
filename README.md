@@ -1,3 +1,7 @@
-I am a **Fullstack Developer** with a focus on System Administration and Cybersecurity. I build and maintain reliable, scalable systems that work under real-world conditions. My approach combines solid technical foundations with an understanding of human behavior, ensuring systems are secure, efficient, and maintainable.  
+# Hi, I'm Miro
 
-I don’t follow trends - I deliver solutions that last.
+I build practical software, tools and technical experiments across different areas of technology.
+
+I focus on creating useful, maintainable and reliable solutions — from small utilities to larger systems and knowledge-based projects. My interests include software development, infrastructure, cybersecurity and the way the internet works.
+
+I prefer simple, solid solutions over unnecessary complexity.
